@@ -1,4 +1,4 @@
-# first-datascience-project
+# First-datascience-project
 Seattle Airbnb Data - data analysis
 
 Libraries used :
