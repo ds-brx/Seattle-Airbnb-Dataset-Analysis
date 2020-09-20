@@ -17,6 +17,5 @@ On predicting prices by using random forest regressors, most important features 
 
 Acknowledgements : 
 I have refered the following kaggle notebooks for my project:
-https://www.kaggle.com/kaushikjag/airbnb-seattle-new-host-pricing-tip-prediction
-https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
+https://www.kaggle.com/kaushikjag/airbnb-seattle-new-host-pricing-tip-prediction and https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
                   
