@@ -11,7 +11,7 @@ Files in Repository :
 Listings.csv from Seattle Airbnb Dataset, my.ipynb, and 3 graphs.
 
 Summary of Analysis : 
-Average prices of Condominium propert types are the higest and they gradually decrease from Houses and Lofts to Apartments and other types. Pricing is mainly influenced by number of bedrooms,bathrooms and number of amenities. Random Forest REgresson is used to predict prices of unknown propert types based on the important features concluded from correlations heatmap.
+Average prices of Condominium property types are the higest and they gradually decrease from Houses and Lofts to Apartments and other types. Pricing is mainly influenced by number of bedrooms,bathrooms and number of amenities. Random Forest REgresson is used to predict prices of unknown propert types based on the important features concluded from correlations heatmap.
 
 Acknowledgements : 
 I have refered the following kaggle notebooks for my project:
