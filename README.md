@@ -11,9 +11,7 @@ Files in Repository :
 Listings.csv from Seattle Airbnb Dataset, my.ipynb, and 3 graphs.
 
 Summary of Analysis : 
-Condominium property types are the most costly and the prices gradually decrease from houses,lofts to apartments and other types. 
-From the correlations graph, the prices of accomodations mostly depend upon number of accomodates,bathrooms,bedrooms.
-On predicting prices by using random forest regressors, most important features influencing the pricing of accomodations are bedrooms,bathrooms,room_types,availibility in a year,and amenities.
+Average prices of Condominium are the higest and they gradually decrease from Houses and Lofts to Apartments and other types. Pricing is mainly influenced by number of bedrooms,bathrooms and number of amenities. Random Forest REgresson is used to predict prices of unknown propert types based on the important features concluded from correlations heatmap.
 
 Acknowledgements : 
 I have refered the following kaggle notebooks for my project:
