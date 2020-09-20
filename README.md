@@ -5,7 +5,7 @@ Libraries used :
 Numpy, Pandas, SciKit learn, Matplotlib, Seaborn
 
 Motivation : 
-Renting or finding accomodation is one the most common problems faced while travelling. This project explores a beginner level approach to analysing the main factors determining the prices of accomadations, based on property types, amenities and locality. This will give an insight into efficiently setting cost, thereby saving money, and getting better review scores on listings.
+Renting or finding accomodation is one the most common problems faced while travelling. This project is a beginner level approach to analyse the main factors determining the pricing of accomadations, based on property types and their amenities. This will give an insight into efficiently setting cost, thereby saving money, and getting better review scores.
 
 Files in Repository : 
 Listings.csv from Seattle Airbnb Dataset, my.ipynb, and 3 graphs.
