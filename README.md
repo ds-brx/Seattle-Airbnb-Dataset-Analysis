@@ -1,5 +1,5 @@
-# First-datascience-project
-Seattle Airbnb Data - data analysis
+# First Data Science Project
+Seattle Airbnb Data - Data Analysis
 
 Libraries used :
 Numpy, Pandas, SciKit learn, Matplotlib, Seaborn
